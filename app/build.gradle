@@ -25,5 +25,7 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
+
+    //se añadio la libreria de localizacion, que incluye funciones de reconociemiento de actividad y google places
     compile 'com.google.android.gms:play-services-location:12.0.0'
 }
